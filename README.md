@@ -1,4 +1,4 @@
-# Amazon Sales and Customer Analysis - SQL Project  
+# Amazon Retail Analysis - SQL Project  
 
 ## 📌 Overview  
 This project analyzes an Amazon sales dataset using **SQL** to uncover key business insights about customer behavior, sales performance, and product trends. The dataset includes transaction records across multiple branches, product lines, and customer demographics.  
